@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "diebold.aymerik@gmail.com",
+      "password": "$2a$10$Y2h7ijwYHPi9ikzUMVOt8.qV1o9dqNFhf76y3pXHfJxtwM5FFK9ny",
+      "id": 1
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$tXjrwCnoOCsZKiFGoWlW.ugW8o/4PtPplm3Z5hdZEUomOrmjJH122",
+      "id": 2
+    },
+    {
+      "email": "test@test.fr",
+      "password": "$2a$10$czEFLdxT8C3JyHBiFKKDxOIwcBfigzkJuTFyhzdiwNaLqtTGD.uGC",
+      "id": 3
+    },
+    {
+      "email": "testinscription@email.com",
+      "password": "$2a$10$DgViWGyOWA9JHV.M5pz.puDSeM/9RxsrBerukh3nF02Ae9zFD5pFG",
+      "id": 4
+    },
+    {
+      "email": "test123@test.fr",
+      "password": "$2a$10$3WKA/WF9eGRCz40dKX7Sj.GLMrXig2E8LDFasrKEm9G7ixRkhC.g2",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Apprendre à utiliser React",
+      "description": "Bases de React + React avancé",
+      "status": "done",
+      "id": 1
+    },
+    {
+      "title": "Terminer le projet TaskManager !!!!!",
+      "description": "On est presque au bout :)",
+      "status": "done",
+      "id": 2
+    }
+  ]
+}

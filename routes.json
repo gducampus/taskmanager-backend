@@ -1,0 +1,5 @@
+{
+  "/register": "/users",
+  "/login": "/login",
+  "/tasks*": "/660/tasks$1"
+}
