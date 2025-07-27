@@ -35,16 +35,6 @@ npm start
 Par défaut, le serveur sera disponible sur :  
 👉 [http://localhost:3000](http://localhost:3000)
 
-## 📁 Structure du projet
-
-- `db.json` : fichier principal contenant les données (tâches, utilisateurs, etc.)
-- `routes.json` *(optionnel)* : permet de personnaliser les routes de l’API
-- `server.js` *(optionnel)* : pour une configuration avancée (middleware, règles personnalisées)
-
-## 🔄 Rechargement automatique
-
-Le serveur redémarre automatiquement si vous modifiez `db.json`.
-
 ## 🌐 Exemple d’API REST
 
 Voici quelques exemples d’endpoints disponibles :
@@ -55,11 +45,6 @@ Voici quelques exemples d’endpoints disponibles :
 - `PUT /tasks/1` — remplace complètement la tâche d'ID 1
 - `PATCH /tasks/1` — met à jour partiellement la tâche d'ID 1
 - `DELETE /tasks/1` — supprime la tâche d'ID 1
-
-## 🛠 Personnalisation
-
-Tu peux modifier le fichier `db.json` pour adapter les données à ton besoin.  
-Tu peux également ajouter un fichier `routes.json` pour personnaliser les URLs.
 
 ## 📚 Documentation
 
@@ -72,5 +57,5 @@ En cas de problème d’installation ou d’exécution, pose ta question pendant
 
 ---
 
-© 2025 - Projet pédagogique TaskManager – Développé pour les étudiants en développement web
+© 2025 - Projet pédagogique learningcampus – Développé pour les étudiants en développement web
 
